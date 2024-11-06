@@ -59,3 +59,6 @@
 
 # 20
 ![darto20](https://github.com/user-attachments/assets/e0f38a85-a5c2-47f8-9f99-b5d7076bf717)
+
+# Ассинхронное выполнение нескольких задач
+![изображение](https://github.com/user-attachments/assets/bbc360f7-8e9b-41ea-afc9-a0331e06d420)
