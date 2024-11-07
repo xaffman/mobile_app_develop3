@@ -65,3 +65,7 @@
 
 # Асинхронная загрузка данных с API
 ![изображение](https://github.com/user-attachments/assets/bbc360f7-8e9b-41ea-afc9-a0331e06d420)
+
+# Асинхронная обработка потока данных
+![изображение](https://github.com/user-attachments/assets/161f5701-5e0f-40ae-a414-bbeafc7025ca)
+
