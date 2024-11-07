@@ -60,8 +60,8 @@
 # 20
 ![darto20](https://github.com/user-attachments/assets/e0f38a85-a5c2-47f8-9f99-b5d7076bf717)
 
-# Ассинхронное выполнение нескольких задач
+# Асинхронное выполнение нескольких задач
 ![изображение](https://github.com/user-attachments/assets/540fe5c2-672b-4ba6-8faa-1c9b65564856)
 
-# Ассинхронная загрузка данных с API
+# Асинхронная загрузка данных с API
 ![изображение](https://github.com/user-attachments/assets/bbc360f7-8e9b-41ea-afc9-a0331e06d420)
